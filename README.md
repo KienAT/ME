@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kienat
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on JS
+- 👋 Hi, I’m @KienAT
+- 👀 I’m interested in C#, Python, Node.js, React 
+- 🌱 I’m currently learning C#, Python, Node.js, React
+- 💞️ I’m looking to collaborate on C#, Python, Node.js, React
 - 📫 How to reach me an@kien.info
 
 <!---
